@@ -76,4 +76,10 @@ The dataset used for this analysis contains product level in formation from Amaz
 
   14. Top 5 products in terms of rating and number of reviews combined.
 
+**DASHBOARD**
+
+ A full dashboard preview was created in excel featuring all the answered questions.
+
+**DASHBOARD PREVIEW**
+
      
