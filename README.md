@@ -80,6 +80,8 @@ The dataset used for this analysis contains product level in formation from Amaz
 
  A full dashboard preview was created in excel featuring all the answered questions.
 
-**DASHBOARD PREVIEW**
+## [DASHBOARD PREVIEW]
+![Dashboard Screenshot](Dashboard.png)
+
 
      
